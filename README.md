@@ -1,7 +1,7 @@
 <
 ## Getting started
 - Clone the repo
-`git clone https://github.com/samuanv/hexagonal-architecture.git`
+gh repo clone jfontirroig/api-couchdb-nestjs`
 
 - Install dependencies
 `npm install`
