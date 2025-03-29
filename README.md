@@ -1,7 +1,7 @@
 <
 ## Getting started
 - Clone the repo
-gh repo clone jfontirroig/api-couchdb-nestjs`
+[git clone https://github.com/jfontirroig/api-couchdb-nestjs.git]
 
 - Install dependencies
 `npm install`
